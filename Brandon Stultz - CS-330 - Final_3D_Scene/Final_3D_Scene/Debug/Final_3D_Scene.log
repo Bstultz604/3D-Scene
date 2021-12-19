@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\Final_3D_Scene\Source.cpp(206,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\Final_3D_Scene\Source.cpp(207,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\Final_3D_Scene\Source.cpp(211,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\Final_3D_Scene\Source.cpp(212,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\Final_3D_Scene\Source.cpp(214,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\Final_3D_Scene\Source.cpp(215,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\Final_3D_Scene\Source.cpp(222,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\Final_3D_Scene\Source.cpp(441,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\Final_3D_Scene\Source.cpp(1551,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Final_3D_Scene.vcxproj -> D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\Debug\Final_3D_Scene.exe
+  D:\Software_Development\Visual_Studio_Development\Final_3D_Scene\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
